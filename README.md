@@ -18,8 +18,9 @@ since Geopar runs only one configuration.
 
 To run Geopar:
 1. Open Windows Command Prompt (cmd)
-2. Navigate to the **Windows** folder
-3. Type `run.exe` to run the executable
+2. Navigate to the **Windows** folder in the downloaded directory
+3. Prepare input.txt so that the triangulated figure you want to deal with is specified first 
+4. Type `run.exe` to run the executable
 
 ## Running on Mac and Linux
 Mac and Linux executables are located in a folder **Mac, Linux**. 
@@ -29,5 +30,5 @@ since Geopar runs only one configuration.
 
 To run Geopar: 
 1. Open Terminal
-2. Navigate to the **Mac, Linux** folder
+2. Navigate to the **Mac, Linux** folder in the downloaded directory
 3. Type `./run` to run the executable
