@@ -6,7 +6,7 @@ and can be run without having to worry about dependencies on Windows, MacOS, and
 
 ## Downloading files
 Click **Clone or download** and then **Download ZIP** buttons on 
-[github.com/ebraude/Executables](github.com/ebraude/Executables).
+[https://github.com/ebraude/Executables](https://github.com/ebraude/Executables).
 This will download all the files as a zip archive. Unpack the archive. 
 
 ## Running on Windows
