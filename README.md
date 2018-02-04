@@ -22,13 +22,24 @@ To run Geopar:
 3. Prepare input.txt so that the triangulated figure you want to deal with is specified first 
 4. Type `run.exe` to run the executable
 
-## Running on Mac and Linux
-Mac and Linux executables are located in a folder **Mac, Linux**. 
+## Running on Mac
+Mac executables are located in a folder **Mac**. 
 _input.txt_ contains all Triangulated Figure configurations. 
 The configuration of interest should be moved to the top in _input.txt_, 
 since Geopar runs only one configuration. 
 
 To run Geopar: 
 1. Open Terminal
-2. Navigate to the **Mac, Linux** folder in the downloaded directory
+2. Navigate to the **Mac** folder in the downloaded directory
+3. Type `./run` to run the executable
+
+## Running on Linux
+Mac executables are located in a folder **Linux**. 
+_input.txt_ contains all Triangulated Figure configurations. 
+The configuration of interest should be moved to the top in _input.txt_, 
+since Geopar runs only one configuration. 
+
+To run Geopar: 
+1. Open Terminal
+2. Navigate to the **Linux** folder in the downloaded directory
 3. Type `./run` to run the executable
